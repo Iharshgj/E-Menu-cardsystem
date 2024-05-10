@@ -1,0 +1,67 @@
+.body{
+  margin: 0;
+}
+
+.home button,a{
+  border: none !important;
+}
+
+.card--image{
+  background-size: cover !important;
+}
+
+.construction-container {
+  text-align: center;
+  margin: 15% auto;
+  max-width: 400px;
+}
+
+.logo {
+  font-size: 8rem;
+  margin-bottom: 20px;
+}
+
+h1 {
+  color: #1976d2; /* Choose a color that fits your site's design */
+}
+
+.back-icon{
+  position: sticky !important;
+  margin-top: 20px !important ;
+  margin-left: 20px !important;
+  margin-bottom: -30px !important;
+  background-color: white !important;
+  top: 10% !important;
+  z-index: 999 !important;
+}
+
+.cart-icon{
+  color: rgb(255, 153, 0) !important;
+  position: fixed !important;
+  top: 0px !important;
+  right: 0px !important;
+  z-index: 9999 !important;
+  margin: 15px !important;
+  background-color: white !important;
+}
+
+.add-icon{
+  position: fixed !important;
+  margin-top: 10px !important ;
+  margin-left: 20px !important;
+  margin-right: 10px !important;
+  background-color: white !important;
+  top: 10% !important;
+  z-index: 999 !important;
+  right : 0 !important
+}
+
+.css-7dv1rb-MuiButtonBase-root-MuiFab-root-MuiSpeedDial-fab {
+  background-color: #ff9900 !important;
+  height: 50px !important;
+  width: 50px !important;
+}
+
+.css-1yiask1-MuiPaper-root-MuiCard-root{
+  border-radius: 10% !important;
+}
